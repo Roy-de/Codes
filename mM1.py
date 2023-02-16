@@ -76,6 +76,7 @@ rcParams['figure.figsize'] = [15, 3]
 plot(T, N, '.b')
 xlabel('Time')
 ylabel('Number of customers')
+plot.show()
 
 
 # Supply the number of customers at Tmax
