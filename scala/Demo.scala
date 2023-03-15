@@ -1,4 +1,5 @@
 import java.io._
+import implicit._
 
 class Point(val xc: Int, val yc :Int){
    var x : Int = xc
